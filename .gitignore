@@ -1,0 +1,17 @@
+.DS_Store
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+venv/
+*.pyc
+~$*.docx
+
+# Kaggle data files are not committed. See data/README.md.
+data/*.csv
+
+# Local document/export files are kept out of the public code repo.
+report/
+*.docx
+*.pdf
+*.html
+*.zip
