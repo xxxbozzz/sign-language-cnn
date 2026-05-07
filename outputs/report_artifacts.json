@@ -1,0 +1,13 @@
+{
+  "best_model": "vgg_style_adam_lr1e-3_bs128",
+  "comparison_table": "outputs/model_comparison.csv",
+  "class_distribution": "figures/class_distribution.png",
+  "sample_images": "figures/sample_images.png",
+  "classification_report": "outputs/classification_report_best.csv",
+  "classification_report_text": "outputs/classification_report_best.txt",
+  "confusion_matrix": "figures/confusion_matrix_best.png",
+  "confusion_matrix_csv": "outputs/confusion_matrix_best.csv",
+  "sample_predictions": "figures/sample_predictions_best.png",
+  "macro_f1": 0.9938527648691382,
+  "weighted_f1": 0.9938582855565414
+}
